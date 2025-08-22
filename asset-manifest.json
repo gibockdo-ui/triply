@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/triply/static/css/main.e6c13ad2.css",
+    "main.js": "/triply/static/js/main.52216444.js",
+    "static/js/453.9f154e3f.chunk.js": "/triply/static/js/453.9f154e3f.chunk.js",
+    "index.html": "/triply/index.html",
+    "main.e6c13ad2.css.map": "/triply/static/css/main.e6c13ad2.css.map",
+    "main.52216444.js.map": "/triply/static/js/main.52216444.js.map",
+    "453.9f154e3f.chunk.js.map": "/triply/static/js/453.9f154e3f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.52216444.js"
+  ]
+}
